@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">ChitChat</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="groups">Groups</string>
+    <string name="contacts">Contacts</string>
+    <string name="chats">Chats</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="login">Login</string>
+    <string name="need_new_account">Need new account</string>
+    <string name="or_login_using_your_phone">Or login using your phone</string>
+    <string name="phone">Phone</string>
+    <string name="create_account">Create Account</string>
+    <string name="already_have_an_account">Already have an account</string>
+    <string name="find_friends">Find Friends</string>
+    <string name="settings">Settings</string>
+    <string name="log_out">Log Out</string>
+    <string name="update">Update</string>
+    <string name="status">Status</string>
+    <string name="create_group">Create Group</string>
+    <string name="enter_your_phone_number">Enter your phone number</string>
+    <string name="enter_verification_code">Enter verification code</string>
+    <string name="send_verification_code">Send Verification Code</string>
+    <string name="verify">Verify</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="username">username</string>
+    <string name="send_message">Send Message</string>
+    <string name="cancel_chat_request">Cancel Chat Request</string>
+    <string name="accept">Accept</string>
+    <string name="cancel">Cancel</string>
+    <string name="type_message_here">Type message here</string>
+    <string name="display_username">Display Username</string>
+    <string name="last_seen">Last Seen</string>
+    <string name="send_friend_request">Send Friend Request</string>
+
+
+</resources>
